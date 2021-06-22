@@ -1,1 +1,1 @@
-# chess_stats
+A small and nice-looking script to check some chess stats.
